@@ -1,0 +1,10 @@
+name: Oversee
+main: us.oversee.Oversee
+version: 1.1RB
+author: [Hosstile, H6ppy]
+description: Oversee Management Plugin
+commands:
+   oversee:
+   staffchat:
+   chat:
+   manage:
